@@ -1,2 +1,3 @@
 SESI 01
-Dev : ana
+Dev : Ana Carvalho
+Loki
